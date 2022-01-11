@@ -1,5 +1,5 @@
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abelrios2&count_private=true&theme=dark)
-
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <!--
 **abelrios2/abelrios2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
